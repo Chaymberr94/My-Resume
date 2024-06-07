@@ -1,27 +1,28 @@
 h1 {
-    color:rgb(27, 27, 171)
+    color:rgb(17, 17, 130)
 }
 h1 {
     text-align: center;
 }
 
 h2 {
-    color:rgb(33, 3, 183)
-}
-h2 {
-    text-align:
+    color:rgb(42, 19, 158)
 }
 
-ul {
-    color:rgb(40, 40, 63)
-}
-
-p {
-    text-align: center;
-    color: rgb(0, 0, 158);
-}
 
 img {
     display: block;
     margin: auto;
+}
+.statement {
+    color: rgb(66, 66, 96);
+}
+
+* {
+    text-align: center;
+    background-color:rgb(112, 163, 207)
+}
+
+p {
+    line-height: 0.3
 }
